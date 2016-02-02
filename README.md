@@ -5,7 +5,7 @@
 ##Do Now 
 Begin this session by completing the [Do Now](doNow.md) activity.
 
-#This is Joe 
+#This is Rebecca
 
 ##Scope
 You have just been contracted by Old Games, New Programs LLC. They have asked you to make a webapp for Rock, Paper, Scissors. This project was originally contracted to an intern that did not finish the project. Your manager has given you one week to take the former intern's starter code and make a fully functioning game.  
