@@ -47,8 +47,9 @@ You will notice that there are comments inside the script.js file that provide i
 ####In order to make Rock, Paper, Scissors functional you will need to complete the three tasks below:
 
 ###1) Clone this repo into your own Cloud9 account workspace
-1. Copy the "clone URL" from this repo
-2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
+1. Fork this repo from my github : http://bit.ly/1m9jS2D
+2. In your Cloud9 dashboard click on "Repositories" button on the left menu.
+3. Locate the repo you just forked and select "Clone to edit".
 
 Once the workspace has been processed, check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
 ![Imgur](http://i.imgur.com/RKdsduL.png)
