@@ -72,7 +72,7 @@ Use the comments within the script.js file to help you complete the missing comp
 ###Bonus) 
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below: 
 
-* Add CSS to this project using Bootstrap. Give it it's own theme
+* Add CSS animation to this project! Maybe give it it's own theme.
 * Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
 ***
 
@@ -80,7 +80,7 @@ Your Manager has offered a stipend of $500 for each of the bonus requirements li
 Your manager will be grading your capability on this project based on [this rubric](/assessment.md).
 
 ##How to Submit
-The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at the project submission link found in the header of the Daily Session Document (bit.ly/ScriptEd).**  
+The final code for this project must be pushed back up to your repo on GitHub.  
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
